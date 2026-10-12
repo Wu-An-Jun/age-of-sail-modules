@@ -1,0 +1,822 @@
+{
+  "new": [
+    {
+      "number": 1,
+      "file": "mod_armor11.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor11.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Light Ironwood Planking. Thick oak planks with blue iron braces.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 2,
+      "file": "mod_armor21.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor21.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Light Ram Planking. Ram-protection oak reinforcement timbers.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 3,
+      "file": "mod_armor31.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor31.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Powder Store. Closed powder storage barrels with black lids.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 4,
+      "file": "mod_armor41.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor41.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Light Copper Sheathing. Overlapping copper plates with patina and blue iron rivets.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 5,
+      "file": "mod_armor51.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor51.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Light Cork Planking. Textured cork slabs with oak ribs.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 6,
+      "file": "mod_armor61.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor61.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Light Living-oak Planking. Interlocking living oak grain with tiny moss accents.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 7,
+      "file": "mod_shield_capacitor1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_shield_capacitor1.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Bulwark Planking.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 8,
+      "file": "mod_shield_generator1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_shield_generator1.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Bulwark Timbers.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 9,
+      "file": "mod_armor12.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor12.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Ironwood Planking. Thick oak planks with blue iron braces.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 10,
+      "file": "mod_armor22.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor22.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Ram Planking. Ram-protection oak reinforcement timbers.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 11,
+      "file": "mod_armor32.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor32.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Powder Store. Closed powder storage barrels with black lids.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 12,
+      "file": "mod_armor42.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor42.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Copper Sheathing. Overlapping copper plates with patina and blue iron rivets.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 13,
+      "file": "mod_armor52.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor52.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Cork Planking. Textured cork slabs with oak ribs.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 14,
+      "file": "mod_armor62.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor62.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Living-oak Planking. Interlocking living oak grain with tiny moss accents.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 15,
+      "file": "mod_doom1_2x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_doom1_2x2.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Thunder Bell.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 18,
+      "file": "mod_shield_capacitor2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_shield_capacitor2.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Medium Bulwark Planking.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 19,
+      "file": "mod_shield_generator2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_shield_generator2.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Medium Bulwark Timbers.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 20,
+      "file": "mod_armor13.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor13.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Ironwood Planking. Thick oak planks with blue iron braces.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 21,
+      "file": "mod_armor23.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor23.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Ram Planking. Ram-protection oak reinforcement timbers.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 22,
+      "file": "mod_armor33.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor33.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Powder Store. Closed powder storage barrels with black lids.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 23,
+      "file": "mod_armor43.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor43.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Copper Sheathing. Overlapping copper plates with patina and blue iron rivets.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 24,
+      "file": "mod_armor53.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor53.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Cork Planking. Textured cork slabs with oak ribs.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 25,
+      "file": "mod_armor63.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_armor63.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Living-oak Planking. Interlocking living oak grain with tiny moss accents.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 26,
+      "file": "mod_shield_capacitor3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_shield_capacitor3.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Large Bulwark Planking.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 27,
+      "file": "mod_shield_generator3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_shield_generator3.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Large Bulwark Timbers.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent iron-blue. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 28,
+      "file": "mod_fueltank11.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_fueltank11.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Powder Kegs.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent grey-black. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 29,
+      "file": "mod_fueltank21.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_fueltank21.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Iron-bound Powder Kegs.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent grey-black. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 30,
+      "file": "mod_reactor1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_reactor1.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Powder Magazine.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent grey-black. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 31,
+      "file": "mod_fueltank12.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_fueltank12.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Powder Kegs.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent grey-black. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 32,
+      "file": "mod_fueltank22.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_fueltank22.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Iron-bound Powder Kegs.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent grey-black. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 33,
+      "file": "mod_reactor2_2x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_reactor2_2x2.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Powder Magazine.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent grey-black. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 35,
+      "file": "mod_fueltank13.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_fueltank13.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Large Powder Kegs.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent grey-black. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 36,
+      "file": "mod_fueltank23.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_fueltank23.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Iron-bound Powder Kegs.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent grey-black. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 38,
+      "file": "mod_engine0.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-bdbc2d53-602b-4360-8a49-51607d3b3106.png",
+      "prompt": "Create ONE independent Age of Sail Small Square Rig EQUIPMENT MODULE. Strict flat orthographic view directly down at a rectangular wooden rigging platform. 64:64 canvas aspect ratio. Whole rectangle filled by contiguous oak planks, brass brackets, ropes, a mast visible only as a round cap from overhead, and neatly furled cream canvas spars. No ship hull, no bow, no stern, no side view, no isometric view, no standing sails. Match warm hand-painted pixel game style, thin dark outer outline, top left lighting, no text or watermark or outside shadow, transparent only outside the rectangle, no internal transparent gaps. Final runtime size 64x64."
+    },
+    {
+      "number": 39,
+      "file": "mod_engine1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-da051687-3a20-4f47-9c13-19f0731ce056.png",
+      "prompt": "Create ONE independent Age of Sail Small Schooner Rig, TutorialDrive EQUIPMENT MODULE. Strict flat orthographic view directly down at a rectangular wooden rigging platform. 64:64 canvas aspect ratio. Whole rectangle filled by contiguous oak planks, brass brackets, ropes, a mast visible only as a round cap from overhead, and neatly furled cream canvas spars. No ship hull, no bow, no stern, no side view, no isometric view, no standing sails. Match warm hand-painted pixel game style, thin dark outer outline, top left lighting, no text or watermark or outside shadow, transparent only outside the rectangle, no internal transparent gaps. Final runtime size 64x64."
+    },
+    {
+      "number": 40,
+      "file": "mod_engine2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-d94ed96e-3521-4bb6-8c3f-d0fd1f6c8daa.png",
+      "prompt": "Create ONE independent Age of Sail Square Rig EQUIPMENT MODULE. Strict flat orthographic view directly down at a rectangular wooden rigging platform. 64:128 canvas aspect ratio. Whole rectangle filled by contiguous oak planks, brass brackets, ropes, a mast visible only as a round cap from overhead, and neatly furled cream canvas spars. No ship hull, no bow, no stern, no side view, no isometric view, no standing sails. Match warm hand-painted pixel game style, thin dark outer outline, top left lighting, no text or watermark or outside shadow, transparent only outside the rectangle, no internal transparent gaps. Final runtime size 64x128."
+    },
+    {
+      "number": 41,
+      "file": "mod_engine3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-6ed7e315-2ab7-4241-93cd-6ff201ebcc7c.png",
+      "prompt": "Create ONE independent Age of Sail Schooner Rig, Sea Anchor EQUIPMENT MODULE. Strict flat orthographic view directly down at a rectangular wooden rigging platform. 128:64 canvas aspect ratio. Whole rectangle filled by contiguous oak planks, brass brackets, ropes, a mast visible only as a round cap from overhead, and neatly furled cream canvas spars. No ship hull, no bow, no stern, no side view, no isometric view, no standing sails. Match warm hand-painted pixel game style, thin dark outer outline, top left lighting, no text or watermark or outside shadow, transparent only outside the rectangle, no internal transparent gaps. Final runtime size 128x64."
+    },
+    {
+      "number": 42,
+      "file": "mod_engine4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-ddbbd018-11b4-4a07-9892-138baab5ca77.png",
+      "prompt": "Create ONE independent Age of Sail Large Square Rig EQUIPMENT MODULE. Strict flat orthographic view directly down at a rectangular wooden rigging platform. 128:128 canvas aspect ratio. Whole rectangle filled by contiguous oak planks, brass brackets, ropes, a mast visible only as a round cap from overhead, and neatly furled cream canvas spars. No ship hull, no bow, no stern, no side view, no isometric view, no standing sails. Match warm hand-painted pixel game style, thin dark outer outline, top left lighting, no text or watermark or outside shadow, transparent only outside the rectangle, no internal transparent gaps. Final runtime size 128x128."
+    },
+    {
+      "number": 43,
+      "file": "mod_engine5_2x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-25229f8b-3e9a-47b8-b927-7d647f800778.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Large Schooner Rig.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent canvas-cream. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. For rigging show spars, canvas and rope from directly overhead.  CRITICAL: independent square deck rigging PLATFORM MODULE, with mast seen as circular cap from directly overhead, furled cream canvas spars and ropes within a square base. NO hull, no ship, no bow, no side profile."
+    },
+    {
+      "number": 44,
+      "file": "mod_engine5_3x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-00c885b3-4433-4b1a-9492-a2391f75d32b.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Grand Rig.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent canvas-cream. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. For rigging show spars, canvas and rope from directly overhead.  CRITICAL: independent square deck rigging PLATFORM MODULE, with mast seen as circular cap from directly overhead, furled cream canvas spars and ropes within a square base. NO hull, no ship, no bow, no side profile."
+    },
+    {
+      "number": 45,
+      "file": "mod_drone_power1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-0ca0415a-eadd-4df4-8ac2-098bd4d833b1.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Boat navigation station: chart, compass, brass instruments, green locker, no people.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent green. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 46,
+      "file": "mod_drone_replicator1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_drone_replicator1.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Boat Workshop.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent green. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 47,
+      "file": "mod_dronebay1_2x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_dronebay1_2x3.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Longboat Davit M11.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent green. Light from top left. Clear at final 128x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 54,
+      "file": "mod_TargetingUnit.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-c2e33504-ad9d-414c-880a-a0ffb3f3c763.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Brass optical gunnery sight on oak mount.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 55,
+      "file": "mod_focus1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/module_footprints/generated_sources/mod_focus1.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Powder loading station with ramrod, scoop and ammunition tray; no people.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 56,
+      "file": "mod_intertial_damper1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-6d565f3f-caa3-4eb7-831e-56c8427dfb49.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Iron ballast blocks in an oak frame.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 57,
+      "file": "mod_lightweight1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-2ee6529d-3078-4aa0-a2ac-6d81efe877be.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Curved oak ship ribs joined with purple iron straps.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 58,
+      "file": "mod_repairbot1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-4a2686a5-3ffb-41e6-9e71-566ef94c13eb.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Ship carpenter workbench with saw, mallet and planks, no person.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 59,
+      "file": "mod_jammer.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-e8319765-6cca-4be2-be4c-bd781aa85b7d.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Steering wheel mechanism and rolled decoy signal flags.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 128x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 60,
+      "file": "mod_detonator1_2x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-a85ee8a2-dc9e-4b99-955c-0ab8e404081e.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Fire-ship Charge.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 61,
+      "file": "mod_focus2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-38948fbf-4570-470c-89dd-3e0e5231fbe4.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Improved powder loading bench with ramrods and ammunition, no people.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 62,
+      "file": "mod_intertial_damper2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-023e09ba-fca9-471b-bdc5-da582d924b90.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Bilge Keel.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 63,
+      "file": "mod_repairbot2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-5130263a-c9a6-4a05-9151-6a8e2c04b46b.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Ship carpenter workshop with tools and wood, no people.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 66,
+      "file": "mod_zygote1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-a9b49cb6-3926-4b97-a698-24b0021b64f2.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small crew quarters with hammocks and storage chests, roof removed top view.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 128x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 69,
+      "file": "mod_reactor2_3x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-539ccec1-fe81-4453-bef4-2d777e36a8dc.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Large powder magazine, closed barrels and metal-banded oak storage.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 70,
+      "file": "mod_zygote2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-a2d52836-484a-4c14-bd6e-c833592e0849.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Crew quarters with hammocks and storage chests, roof removed top view.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 72,
+      "file": "mod_shield1_1x1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-d05ff1f7-ef85-4bf3-9780-13bc0d78cc84.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Thunder Gun M3.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 73,
+      "file": "mod_afterburner1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-d24c3598-5ed3-4399-a8dd-59773663687a.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Rocket Launcher M2.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 74,
+      "file": "mod_accelerator1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-8210b70e-b56c-4f5a-bbfd-42827f9ccbdb.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Maelstrom Cannon.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 76,
+      "file": "mod_detonator1_3x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-ad0bfecc-4773-4bda-a23f-a4c53e6e16d8.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Whirlpool Charm.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 77,
+      "file": "mod_gun1_1x1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-51c17ff2-107b-4969-91d7-2c495efc04ed.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Fire Cannon.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 78,
+      "file": "mod_laser2_1x1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-47627f2f-22a9-44c8-ba89-e6c03152626c.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Harpoon Gun.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 79,
+      "file": "mod_missile0.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-8e30cfbe-6a67-4d51-9d93-ce4577f6c239.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Rocket Rack.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 80,
+      "file": "mod_shock1_1x1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-47a8323b-4b1f-4aef-96f9-ca2a1fdff3b7.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Thunder Gun.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 81,
+      "file": "mod_energybeam1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-0b6a4a9f-ee4f-4861-9720-a73fb150c600.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Plunder Hook.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 82,
+      "file": "mod_gun2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-e1dc60e5-e8bc-46dc-8246-ea80ee575c14.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Carronade M2.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 83,
+      "file": "mod_laser1_1x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-3784ccda-0d55-4c70-9b16-c0a89bd64977.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Carpenter's Line.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 84,
+      "file": "mod_missile1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-f1918279-4317-41b5-9db8-d8becc83ee29.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Rocket Rack.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 85,
+      "file": "mod_rocket1_1x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-9c816380-afe6-4511-b7b6-f31396609fbf.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Rocket Launcher.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 86,
+      "file": "mod_shock1_1x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-04213009-0f4f-4b56-b566-1e5afbb96e82.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Thunder Gun M2.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 87,
+      "file": "mod_torpedo1_1x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-ffd70258-e34d-4b27-9a07-c45d990f9a7d.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Tar Slick.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 88,
+      "file": "mod_torpedo4_1x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-06ae02bb-95e9-4a78-b8dc-806bba09c91d.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Spar Torpedo.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 89,
+      "file": "mod_energybeam2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-60388d91-9f8f-421c-9654-237587778469.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Fire Harpoon.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 90,
+      "file": "mod_firework_1x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-01bf5cdc-95c9-437d-ade3-3d2edf1fc0dc.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Firework Cannon.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 91,
+      "file": "mod_gun3_1x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-4bbd50a5-5528-4495-ab46-229547da7ad1.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Grapeshot Blaster.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 92,
+      "file": "mod_gun4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-0a6864b3-c1c5-4c5d-8959-ef56aa6df4d0.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Siege Mortar.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 93,
+      "file": "mod_gun5.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-82eb9984-e6f9-478d-9ce4-39a98c9ba3d5.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Carronade.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 94,
+      "file": "mod_gun7_1x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-6bb3d2f0-60c6-44b9-bfa4-53a061db57c9.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Carronade M2.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 95,
+      "file": "mod_laser3_1x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-6e500ace-b97f-4d0d-bc2c-61e45b335ea2.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Long Gun.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 96,
+      "file": "mod_shotgun2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-c801231f-b3d1-4eec-9c93-43eb00bb5e92.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Swivel Battery.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 97,
+      "file": "mod_torpedo4_1x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-18ebb85d-731f-4720-bec2-3d0e30bfab82.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Spar Torpedo.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 98,
+      "file": "mod_flamethrower1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-de952f32-c3de-4e7a-8125-bd684203c0f9.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Fire-pot Thrower.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 99,
+      "file": "mod_gun1_2x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-85e46311-0535-4a89-afb2-5b288992c0c1.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Swivel Gun.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 100,
+      "file": "mod_gun7_1x4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-733fdba4-0b8b-4666-8bfd-ff767e842d40.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Grapeshot Blaster M2.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 101,
+      "file": "mod_laser2_2x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-c3445200-fb6d-4335-8ff5-4a6de5f740fd.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Harpoon Gun.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 102,
+      "file": "mod_laser3_1x4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-d92b3d20-fd93-4e70-946e-718da5f5a6bb.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small Long Harpoon.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 103,
+      "file": "mod_missile2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-0939b000-4428-4a77-8a32-04c2daa4005c.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Rocket Rack M2.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 104,
+      "file": "mod_shock2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-7a167fd2-097f-4802-aefe-2ea58a221d55.png",
+      "prompt": "Create one nautical Thunder Gun module sprite. The attached image is the EXACT outer footprint: a T made of FOUR square cells, TOP ROW THREE FILLED CELLS, BOTTOM ROW ONLY CENTER FILLED. Completely fill this T silhouette with a continuous oak and iron deck platform, no gaps within the T. Add one short black iron cannon along the center vertical axis, muzzle pointing UP, ammo and rope in both top wings. Do not extend barrel beyond T. Strict flat orthographic top down, warm hand painted pixel game art, brass highlights from upper left. TRANSPARENT BACKGROUND, no glow, no shadow outside, no colored background. No text. Canvas 3:2. Preserve exact footprint edges and fully transparent lower corner cells."
+    },
+    {
+      "number": 105,
+      "file": "mod_torpedo2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-d931b748-7703-4b15-bcba-c0b52bc6bc94.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Spar Torpedo.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 106,
+      "file": "mod_torpedo3_2x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-45820e4e-12c2-420c-a697-0ac16ebc5cfd.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Tar Slick.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 107,
+      "file": "mod_gun7_1x5.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-00aec11d-7da5-4bd4-b062-478e093f815e.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Carronade.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:320. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x320 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 108,
+      "file": "mod_gun6_2x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-57079adb-1b7e-4a49-9b01-c9e059f7ab52.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Grapeshot Blaster.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 109,
+      "file": "mod_ion_cannon2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-6d890951-d1fe-4113-8532-5ed73eddecd1.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Chain-shot Cannon.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 110,
+      "file": "mod_missile3_3x2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-0c765d26-0a3e-42f8-a03d-42a63e2bd626.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Rocket Rack.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:128. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 192x128 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 111,
+      "file": "mod_rocket1_2x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-b415550b-8ddd-4147-aef2-bc7b3d2b343b.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Rocket Rack M2.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 112,
+      "file": "mod_shotgun1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-b6cd7a0b-3891-4be7-9d60-bf23618d800f.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Fire Scatter-gun.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 113,
+      "file": "mod_torpedo3_2x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-699c8e3d-de59-4910-8347-5c127df08f3c.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Fragmentation Bomb.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 114,
+      "file": "mod_firework_2x4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-3393d0b1-2079-4b7a-a226-e3025f6f208a.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Mine-thrower.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 115,
+      "file": "mod_gun7_2x4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-f5ded268-dc49-435b-b5aa-30ad27e6e8cd.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Long Culverin.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 116,
+      "file": "mod_ion_cannon1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-a4f977cd-4c38-4fef-b4f6-95b08c6faaf8.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Chain-shot Cannon.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 117,
+      "file": "mod_laser1_2x4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-a34050a9-d4d5-4856-8b51-db98acdf175b.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Long Harpoon.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 118,
+      "file": "mod_rocket1_2x4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-86ea0129-b92f-4c84-a8b8-5472f556e3c5.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Stalker Rocket Rack.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 119,
+      "file": "mod_shock1_2x4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-756124bb-0b6a-46a3-9155-394c3dce48ed.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Thunder Gun.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 120,
+      "file": "mod_torpedo1_2x4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-b294e698-7ea7-43a6-b743-b4488588a0f9.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Greek-fire Torpedo.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 121,
+      "file": "mod_torpedo4_2x4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-f104a451-9909-4e48-a8c9-d9cbfc3710e5.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Cluster Torpedo.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 122,
+      "file": "mod_doom1_3x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-da6d3f3e-0371-4688-a2c0-29e9522abc26.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Greek-fire Bomb.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 123,
+      "file": "mod_holy_gun.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-1579f4c5-7e23-4351-8bd6-22440be1735a.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Holy Cannon.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 124,
+      "file": "mod_laser4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-f2297bb4-ad3a-4b9c-9571-b6427587a14e.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Harpoon Gun M2.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 125,
+      "file": "mod_shock1_3x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-b9d45118-e187-44a3-a642-5d0d99e6146a.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Oblivion Cannon.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 126,
+      "file": "mod_torpedo1_2x5.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-3e1474d9-68d1-4a8f-9a7a-22ba1b96d54b.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Heavy Acid Torpedo.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:320. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x320 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 127,
+      "file": "mod_firework_3x5.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-d5aaddac-c86d-4bef-a975-672c21b161d4.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Doom Harpoon.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:320. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 192x320 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 128,
+      "file": "mod_dronebay1_3x4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-82dc9f06-c8e8-4078-9bfe-3fc54003f714.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Large wooden longboat cradle with one longboat and green rope winches, bow upward.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent green. Light from top left. Clear at final 192x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 129,
+      "file": "mod_dronebay1_4x5.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-15133113-eba7-4681-8153-79b7ca509c20.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Grand wooden longboat cradle with three longboats and green rope winches, bows upward.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 256:320. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent green. Light from top left. Clear at final 256x320 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 130,
+      "file": "mod_teleporter1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-11651ddf-3941-4d53-986f-e34afa4b3b10.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Enchanted storm canvas rig, purple ropes and brass fittings.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a exact silhouette of reference mask: all brown areas painted solid, all transparent notches kept transparent. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 131,
+      "file": "mod_inertial2.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-dfd664ce-d3a7-405d-a3d3-10746f11df79.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Nautical brass and iron ballast stabilizer on oak, purple accents.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:192. Structure fills a exact silhouette of reference mask: all brown areas painted solid, all transparent notches kept transparent. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent purple. Light from top left. Clear at final 192x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Do not add weapons or cannons. "
+    },
+    {
+      "number": 132,
+      "file": "mod_gun3_1x1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-15200591-1a5e-4f26-84e1-136fcfaece45.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small iron naval cannon on a red-brown wooden carriage.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 133,
+      "file": "mod_missile3_1x1.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-89d631fd-5a3e-4bb9-be39-dc79cbb489ac.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Small wooden gunpowder rocket rack, red-brown.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 64:64. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 64x64 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 134,
+      "file": "mod_shock1_2x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-6b700ec1-02a0-49f5-b108-da0d2108af02.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Thunder Gun.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 128:192. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 128x192 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    },
+    {
+      "number": 135,
+      "file": "mod_torpedo3_3x3.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-829880f9-b427-444e-81d3-aee72d0d53a3.png",
+      "prompt": "ONE GAME MODULE SPRITE, top down Age of Sail alchemical stasis projector on a FULL SQUARE OAK DECK with a square notch removed from TOP CENTER. Outer silhouette exactly the provided reference, consisting of 3x3 cells: top row LEFT SOLID, CENTER EMPTY, RIGHT SOLID; middle and bottom rows ALL SOLID. All eight solid cells must be filled by contiguous rectangular oak platform. Put large brass round vessel and SMALL violet crystal entirely in BOTTOM TWO ROWS. Put storage brass canisters in TOP LEFT and TOP RIGHT. TOP CENTER MUST BE COMPLETELY TRANSPARENT, absolutely NO crystal, barrel or object there. No round or oval base. Strict orthographic plan view from directly above. Warm hand painted pixel art, oak, iron, brass, subtle violet, upper-left lighting. Single cohesive deck assembly, no visible grid lines or divisions. Thin outer perimeter outline. Transparent background. No drop shadow, no glow outside, no text, no ship hull. Square canvas."
+    },
+    {
+      "number": 136,
+      "file": "mod_gun6_3x4.png",
+      "path": "/workspace/scratch/d27d3ed2af1b/generated_images/exec-0136ceef-7eda-4f8b-b47d-80ed60412333.png",
+      "prompt": "Use case: stylized-concept. Make ONE usable Age of Sail game equipment sprite: Large Rusty Cannon.\nStrict flat ORTHOGRAPHIC TOP-DOWN vertically downward. Not side view, not isometric. Canvas aspect 192:256. Structure fills a solid rectangle completely filled edge to edge with integrated structural platform; no transparent gaps inside. One continuous integrated object, not tiles; no internal grid seams, no square subdivisions. Warm hand-painted pixel art, oak, brass, iron and canvas. Category accent red-brown. Light from top left. Clear at final 192x256 pixels. Thin dark outline on outside perimeter only. No padding, no outside shadow, no labels, text, watermark, people, sea or spaceship. Nautical equipment for real wooden sailing ships. Barrels, rockets, hooks or torpedoes point UP, show full length from above with rear mechanism below.  The gun firing axis MUST point straight UP toward the TOP of the image. Never point left or right."
+    }
+  ],
+  "previous_batch": [
+    {
+      "file": "mod_pointdefense.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Swivel Guns, Reinforced Hull. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Defence. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle iron-blue category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_shield1_3x2.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Bow Bulwark. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Defence. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle iron-blue category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_reactor21.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Great Powder Magazine. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Powder. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle gray-black category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_reactor22.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Grand Powder Magazine. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Powder. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle gray-black category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_drone_power2.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Boat Captain, Boat Gunners, Boat Bulwarks +1. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Boats. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle green category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_drone_replicator2.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Boat Workshop. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Boats. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle green category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_dronebay2.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Longboat Davit M11, Longboat Davit M21, Longboat Davit M31 +8. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Boats. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle green category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_drone_power3.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Large Boat Captain, Large Boat Gunners, Large Boat Bulwarks +1. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Boats. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle green category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_drone_replicator3.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Large Boat Workshop. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Boats. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle green category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_dronebay3.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Large Longboat Davit M11, Large Longboat Davit M21, Large Longboat Davit M31 +8. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Boats. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle green category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_range1.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Rangefinder. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Special. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle purple category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_teleporter.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Storm Sails. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Special. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle purple category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_core.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Infinity Stone. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Special. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle purple category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_shield2.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Smoke Screen, Bulwark. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Special. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle purple category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_zygote3.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Large Crew Quarters. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Special. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle purple category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "file": "mod_reactor3.png",
+      "prompt": "Edit the supplied mandatory geometry mask into ONE finished game sprite: Heavy Leech Harpoon. Preserve its EXACT opaque footprint and all transparent negative space. Fill all brown areas with one connected, continuous physical shipboard installation; do not change the silhouette, don't inset a smaller icon, no margin. Category: Guns. Warm hand-painted pixel game art, oak, brass, iron and canvas, subtle red-brown category accents, light from upper left. Strict orthographic top-down overhead view, bow and weapons UP, no visible front wall, no isometric view. Nautical Age of Sail fantasy objects, no space machinery even where a legacy name implies it. Equipment and structural details should span the entire occupied footprint as a single structure, with no seams corresponding to hull grid cells. 1-2 px dark contour only around outside of footprint. No tile frame, letters, labels, people, grid lines, shadows outside shape or background. Keep alpha. Each opaque arm or wing of the provided mask MUST contain meaningful equipment detail. Do not paint over transparent cutouts. Exact silhouette reference, not a loose inspiration.",
+      "guide": "exact_footprint_mask",
+      "tool": "builtin_imagegen"
+    }
+  ]
+}

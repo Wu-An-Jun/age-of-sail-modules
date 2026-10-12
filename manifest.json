@@ -1,0 +1,4179 @@
+[
+  {
+    "number": 1,
+    "file": "mod_armor11.png",
+    "name": "Light Ironwood Planking",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor11.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 2,
+    "file": "mod_armor21.png",
+    "name": "Light Ram Planking",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor21.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 3,
+    "file": "mod_armor31.png",
+    "name": "Small Powder Store",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor31.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 4,
+    "file": "mod_armor41.png",
+    "name": "Light Copper Sheathing",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor41.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 5,
+    "file": "mod_armor51.png",
+    "name": "Light Cork Planking",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor51.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 6,
+    "file": "mod_armor61.png",
+    "name": "Light Living-oak Planking",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor61.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 7,
+    "file": "mod_shield_capacitor1.png",
+    "name": "Small Bulwark Planking",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_shield_capacitor1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 8,
+    "file": "mod_shield_generator1.png",
+    "name": "Small Bulwark Timbers",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_shield_generator1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9893
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 9,
+    "file": "mod_armor12.png",
+    "name": "Ironwood Planking",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor12.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 10,
+    "file": "mod_armor22.png",
+    "name": "Ram Planking",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor22.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 11,
+    "file": "mod_armor32.png",
+    "name": "Powder Store",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor32.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9871,
+      0.9858,
+      1.0,
+      0.9998
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 12,
+    "file": "mod_armor42.png",
+    "name": "Copper Sheathing",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor42.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 13,
+    "file": "mod_armor52.png",
+    "name": "Cork Planking",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor52.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 14,
+    "file": "mod_armor62.png",
+    "name": "Living-oak Planking",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor62.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 15,
+    "file": "mod_doom1_2x2.png",
+    "name": "Thunder Bell, Thunder Bell M2, Fog Lanterns",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_doom1_2x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9856,
+      0.9846,
+      0.9883,
+      0.988
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 16,
+    "file": "mod_pointdefense.png",
+    "name": "Swivel Guns, Reinforced Hull",
+    "footprint": [
+      "\u00b7\u25a0\u00b7",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 192,
+    "height": 128,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_pointdefense.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9333,
+      0.8472,
+      0.9844,
+      0.8499
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 17,
+    "file": "mod_shield1_3x2.png",
+    "name": "Bow Bulwark",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u00b7"
+    ],
+    "cells": 4,
+    "width": 192,
+    "height": 128,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_shield1_3x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.7815,
+      0.8857,
+      0.7815,
+      0.9209
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 18,
+    "file": "mod_shield_capacitor2.png",
+    "name": "Medium Bulwark Planking",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_shield_capacitor2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9897,
+      0.9897,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 19,
+    "file": "mod_shield_generator2.png",
+    "name": "Medium Bulwark Timbers",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_shield_generator2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9998,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 20,
+    "file": "mod_armor13.png",
+    "name": "Heavy Ironwood Planking",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor13.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9998
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 21,
+    "file": "mod_armor23.png",
+    "name": "Heavy Ram Planking",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor23.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 22,
+    "file": "mod_armor33.png",
+    "name": "Heavy Powder Store",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor33.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 23,
+    "file": "mod_armor43.png",
+    "name": "Heavy Copper Sheathing",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor43.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9927,
+      0.9868,
+      0.9927,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 24,
+    "file": "mod_armor53.png",
+    "name": "Heavy Cork Planking",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor53.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9998,
+      1.0,
+      0.9998
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 25,
+    "file": "mod_armor63.png",
+    "name": "Heavy Living-oak Planking",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_armor63.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9851,
+      0.9871,
+      0.9836,
+      0.9976,
+      1.0,
+      0.9976,
+      0.9827,
+      0.9893,
+      0.9844
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 26,
+    "file": "mod_shield_capacitor3.png",
+    "name": "Large Bulwark Planking",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_shield_capacitor3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9612,
+      0.9546,
+      0.9617,
+      0.9912,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 27,
+    "file": "mod_shield_generator3.png",
+    "name": "Large Bulwark Timbers",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Defence",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_shield_generator3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9976,
+      0.9817,
+      0.9985,
+      1.0,
+      1.0,
+      1.0,
+      0.9998,
+      1.0,
+      0.9998
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 28,
+    "file": "mod_fueltank11.png",
+    "name": "Small Powder Kegs",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Powder",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_fueltank11.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 29,
+    "file": "mod_fueltank21.png",
+    "name": "Small Iron-bound Powder Kegs",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Powder",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_fueltank21.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9998
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 30,
+    "file": "mod_reactor1.png",
+    "name": "Small Powder Magazine",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Powder",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_reactor1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 31,
+    "file": "mod_fueltank12.png",
+    "name": "Powder Kegs",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Powder",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_fueltank12.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 32,
+    "file": "mod_fueltank22.png",
+    "name": "Iron-bound Powder Kegs",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Powder",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_fueltank22.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9995,
+      0.9993,
+      0.9998,
+      0.9998
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 33,
+    "file": "mod_reactor2_2x2.png",
+    "name": "Powder Magazine",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Powder",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_reactor2_2x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      0.9985,
+      0.999
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 34,
+    "file": "mod_reactor21.png",
+    "name": "Great Powder Magazine",
+    "footprint": [
+      "\u00b7\u25a0\u00b7",
+      "\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u00b7"
+    ],
+    "cells": 5,
+    "width": 192,
+    "height": 192,
+    "category": "Powder",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_reactor21.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 35,
+    "file": "mod_fueltank13.png",
+    "name": "Large Powder Kegs",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Powder",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_fueltank13.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9995,
+      1.0,
+      0.9998,
+      1.0,
+      1.0,
+      1.0,
+      0.9937,
+      0.9932,
+      0.9937
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 36,
+    "file": "mod_fueltank23.png",
+    "name": "Heavy Iron-bound Powder Kegs",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Powder",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_fueltank23.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9797,
+      0.99,
+      0.9836,
+      0.9932,
+      1.0,
+      0.999,
+      0.9817,
+      0.9897,
+      0.9856
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 37,
+    "file": "mod_reactor22.png",
+    "name": "Grand Powder Magazine",
+    "footprint": [
+      "\u00b7\u25a0\u00b7\u25a0\u00b7",
+      "\u25a0\u25a0\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u25a0\u25a0\u00b7",
+      "\u25a0\u25a0\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u00b7\u25a0\u00b7"
+    ],
+    "cells": 17,
+    "width": 320,
+    "height": 320,
+    "category": "Powder",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_reactor22.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9241,
+      1.0,
+      0.9263,
+      1.0,
+      0.9241,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 38,
+    "file": "mod_engine0.png",
+    "name": "Small Square Rig",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Sails",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_engine0.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 39,
+    "file": "mod_engine1.png",
+    "name": "Small Schooner Rig, TutorialDrive",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Sails",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_engine1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9858
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 40,
+    "file": "mod_engine2.png",
+    "name": "Square Rig",
+    "footprint": [
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 2,
+    "width": 64,
+    "height": 128,
+    "category": "Sails",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_engine2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 41,
+    "file": "mod_engine3.png",
+    "name": "Schooner Rig, Sea Anchor",
+    "footprint": [
+      "\u25a0\u25a0"
+    ],
+    "cells": 2,
+    "width": 128,
+    "height": 64,
+    "category": "Sails",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_engine3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9946,
+      0.9949
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 42,
+    "file": "mod_engine4.png",
+    "name": "Large Square Rig",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Sails",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_engine4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.959,
+      0.959,
+      0.959,
+      0.9595
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 43,
+    "file": "mod_engine5_2x2.png",
+    "name": "Large Schooner Rig",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Sails",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_engine5_2x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9805,
+      0.98,
+      0.9717,
+      0.9709
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 44,
+    "file": "mod_engine5_3x3.png",
+    "name": "Grand Rig",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Sails",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_engine5_3x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9788,
+      0.9917,
+      0.9792,
+      0.9907,
+      1.0,
+      0.9897,
+      0.98,
+      0.9915,
+      0.9802
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 45,
+    "file": "mod_drone_power1.png",
+    "name": "Small Boat Captain, Small Boat Gunners, Small Boat Bulwarks +1",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Boats",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_drone_power1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 46,
+    "file": "mod_drone_replicator1.png",
+    "name": "Small Boat Workshop",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Boats",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_drone_replicator1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9773,
+      0.9822,
+      0.9883,
+      0.9836
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 47,
+    "file": "mod_dronebay1_2x3.png",
+    "name": "Small Longboat Davit M11, Small Longboat Davit M21, Small Longboat Davit M31 +8",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 6,
+    "width": 128,
+    "height": 192,
+    "category": "Boats",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_dronebay1_2x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9885,
+      0.9883,
+      1.0,
+      1.0,
+      0.9995,
+      0.9995
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 48,
+    "file": "mod_drone_power2.png",
+    "name": "Boat Captain, Boat Gunners, Boat Bulwarks +1",
+    "footprint": [
+      "\u25a0\u25a0\u00b7",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 8,
+    "width": 192,
+    "height": 192,
+    "category": "Boats",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_drone_power2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.7134,
+      0.6294,
+      0.9814,
+      1.0,
+      0.9819,
+      0.8623,
+      0.9941,
+      0.8625
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 49,
+    "file": "mod_drone_replicator2.png",
+    "name": "Boat Workshop",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u25a0"
+    ],
+    "cells": 8,
+    "width": 192,
+    "height": 192,
+    "category": "Boats",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_drone_replicator2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9324,
+      0.9529,
+      0.9385,
+      0.7258,
+      1.0,
+      0.9834,
+      0.6812,
+      0.9683
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 50,
+    "file": "mod_dronebay2.png",
+    "name": "Longboat Davit M11, Longboat Davit M21, Longboat Davit M31 +8",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u00b7"
+    ],
+    "cells": 11,
+    "width": 192,
+    "height": 256,
+    "category": "Boats",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_dronebay2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9707,
+      0.9844,
+      0.9241,
+      0.9844,
+      1.0,
+      0.9375,
+      0.9844,
+      0.9988,
+      0.8633,
+      0.9688,
+      0.9722
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 51,
+    "file": "mod_drone_power3.png",
+    "name": "Large Boat Captain, Large Boat Gunners, Large Boat Bulwarks +1",
+    "footprint": [
+      "\u00b7\u25a0\u25a0\u00b7",
+      "\u25a0\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u25a0\u00b7"
+    ],
+    "cells": 12,
+    "width": 256,
+    "height": 256,
+    "category": "Boats",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_drone_power3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.8931,
+      0.8945,
+      0.9983,
+      1.0,
+      1.0,
+      0.9983,
+      0.4868,
+      1.0,
+      1.0,
+      0.4951,
+      0.9521,
+      0.9529
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 52,
+    "file": "mod_drone_replicator3.png",
+    "name": "Large Boat Workshop",
+    "footprint": [
+      "\u00b7\u25a0\u25a0\u00b7",
+      "\u25a0\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u25a0\u00b7"
+    ],
+    "cells": 12,
+    "width": 256,
+    "height": 256,
+    "category": "Boats",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_drone_replicator3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.8772,
+      0.8779,
+      0.9578,
+      0.9968,
+      0.9966,
+      0.9636,
+      0.8735,
+      0.9851,
+      0.9851,
+      0.875,
+      0.8782,
+      0.8779
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 53,
+    "file": "mod_dronebay3.png",
+    "name": "Large Longboat Davit M11, Large Longboat Davit M21, Large Longboat Davit M31 +8",
+    "footprint": [
+      "\u25a0\u25a0\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0\u25a0\u25a0"
+    ],
+    "cells": 15,
+    "width": 320,
+    "height": 192,
+    "category": "Boats",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_dronebay3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 54,
+    "file": "mod_TargetingUnit.png",
+    "name": "Gunnery Sight",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_TargetingUnit.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 55,
+    "file": "mod_focus1.png",
+    "name": "Loading Crew, Powder Focus",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_focus1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 56,
+    "file": "mod_intertial_damper1.png",
+    "name": "Ballast",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_intertial_damper1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 57,
+    "file": "mod_lightweight1.png",
+    "name": "Oak Ribs",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_lightweight1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.999
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 58,
+    "file": "mod_repairbot1.png",
+    "name": "Small Ship's Carpenter",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_repairbot1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 59,
+    "file": "mod_jammer.png",
+    "name": "SuperStealth, Decoy Flags, Steering Gear",
+    "footprint": [
+      "\u25a0\u25a0"
+    ],
+    "cells": 2,
+    "width": 128,
+    "height": 64,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_jammer.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 60,
+    "file": "mod_detonator1_2x2.png",
+    "name": "Fire-ship Charge",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_detonator1_2x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9827,
+      0.9832,
+      0.9846,
+      0.9854
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 61,
+    "file": "mod_focus2.png",
+    "name": "Loading Crew M2, Powder Focus M2",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_focus2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9998,
+      0.9998,
+      0.9995,
+      0.9993
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 62,
+    "file": "mod_intertial_damper2.png",
+    "name": "Bilge Keel",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_intertial_damper2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9995,
+      0.9995,
+      0.9377,
+      0.9375
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 63,
+    "file": "mod_repairbot2.png",
+    "name": "Ship's Carpenter",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_repairbot2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 64,
+    "file": "mod_range1.png",
+    "name": "Rangefinder",
+    "footprint": [
+      "\u00b7\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 5,
+    "width": 128,
+    "height": 192,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_range1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9453,
+      0.8486,
+      0.988,
+      0.6731,
+      0.8955
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 65,
+    "file": "mod_teleporter.png",
+    "name": "Storm Sails",
+    "footprint": [
+      "\u00b7\u25a0\u00b7",
+      "\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u00b7"
+    ],
+    "cells": 5,
+    "width": 192,
+    "height": 192,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_teleporter.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      0.9846,
+      1.0,
+      0.9846,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 66,
+    "file": "mod_zygote1.png",
+    "name": "Small Crew Quarters",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 6,
+    "width": 128,
+    "height": 192,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_zygote1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 67,
+    "file": "mod_core.png",
+    "name": "Infinity Stone",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u25a0",
+      "\u00b7\u25a0\u25a0"
+    ],
+    "cells": 7,
+    "width": 192,
+    "height": 192,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_core.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.3069,
+      0.6323,
+      0.6553,
+      0.6819,
+      0.8972,
+      0.446,
+      0.5183
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 68,
+    "file": "mod_shield2.png",
+    "name": "Smoke Screen, Bulwark",
+    "footprint": [
+      "\u25a0\u00b7\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u00b7\u25a0"
+    ],
+    "cells": 7,
+    "width": 192,
+    "height": 192,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_shield2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.4941,
+      0.5374,
+      0.4915,
+      0.9851,
+      0.5403,
+      0.4939,
+      0.5369
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 69,
+    "file": "mod_reactor2_3x3.png",
+    "name": "GravityGenerator, Large Powder Magazine",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_reactor2_3x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 70,
+    "file": "mod_zygote2.png",
+    "name": "Crew Quarters",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_zygote2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 71,
+    "file": "mod_zygote3.png",
+    "name": "Large Crew Quarters",
+    "footprint": [
+      "\u00b7\u25a0\u25a0\u00b7",
+      "\u25a0\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u25a0\u00b7"
+    ],
+    "cells": 12,
+    "width": 256,
+    "height": 256,
+    "category": "Special",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_zygote3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.7224,
+      1.0,
+      1.0,
+      0.7188,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 72,
+    "file": "mod_shield1_1x1.png",
+    "name": "Small Thunder Gun M3",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Guns",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_shield1_1x1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9907
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 73,
+    "file": "mod_afterburner1.png",
+    "name": "Rocket Launcher M2",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 3,
+    "width": 64,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_afterburner1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9163,
+      0.9961,
+      0.9641
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 74,
+    "file": "mod_accelerator1.png",
+    "name": "Maelstrom Cannon",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_accelerator1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9885,
+      0.9885,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 75,
+    "file": "mod_reactor3.png",
+    "name": "Heavy Leech Harpoon",
+    "footprint": [
+      "\u00b7\u25a0\u00b7",
+      "\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u00b7"
+    ],
+    "cells": 5,
+    "width": 192,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_reactor3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9692,
+      0.9531,
+      0.998,
+      0.9531,
+      0.9683
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 76,
+    "file": "mod_detonator1_3x3.png",
+    "name": "Whirlpool Charm",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P1",
+    "path": "assets/Nautical/Modules/mod_detonator1_3x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 77,
+    "file": "mod_gun1_1x1.png",
+    "name": "Small Fire Cannon, Small Carronade",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_gun1_1x1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 78,
+    "file": "mod_laser2_1x1.png",
+    "name": "Small Harpoon Gun",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_laser2_1x1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9722
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 79,
+    "file": "mod_missile0.png",
+    "name": "Small Rocket Rack",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_missile0.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 80,
+    "file": "mod_shock1_1x1.png",
+    "name": "Small Thunder Gun",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_shock1_1x1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 81,
+    "file": "mod_energybeam1.png",
+    "name": "Small Plunder Hook, Plunder Hook, Grappling Line",
+    "footprint": [
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 2,
+    "width": 64,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_energybeam1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9902,
+      0.9995
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 82,
+    "file": "mod_gun2.png",
+    "name": "Small Carronade M2",
+    "footprint": [
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 2,
+    "width": 64,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_gun2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 83,
+    "file": "mod_laser1_1x2.png",
+    "name": "Small Carpenter's Line, Small Harpoon Gun M2",
+    "footprint": [
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 2,
+    "width": 64,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_laser1_1x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 84,
+    "file": "mod_missile1.png",
+    "name": "Rocket Rack",
+    "footprint": [
+      "\u25a0\u25a0"
+    ],
+    "cells": 2,
+    "width": 128,
+    "height": 64,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_missile1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 85,
+    "file": "mod_rocket1_1x2.png",
+    "name": "Rocket Launcher, Rocket Rack M3",
+    "footprint": [
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 2,
+    "width": 64,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_rocket1_1x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9626,
+      0.9951
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 86,
+    "file": "mod_shock1_1x2.png",
+    "name": "Small Thunder Gun M2",
+    "footprint": [
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 2,
+    "width": 64,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_shock1_1x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 87,
+    "file": "mod_torpedo1_1x2.png",
+    "name": "Small Tar Slick, Boarding Hooks",
+    "footprint": [
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 2,
+    "width": 64,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_torpedo1_1x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 88,
+    "file": "mod_torpedo4_1x2.png",
+    "name": "Small Spar Torpedo",
+    "footprint": [
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 2,
+    "width": 64,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_torpedo4_1x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9902,
+      0.9893
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 89,
+    "file": "mod_energybeam2.png",
+    "name": "Fire Harpoon, Leech Harpoon",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 3,
+    "width": 64,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_energybeam2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 90,
+    "file": "mod_firework_1x3.png",
+    "name": "Firework Cannon",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 3,
+    "width": 64,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_firework_1x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9429,
+      0.9758,
+      0.9792
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 91,
+    "file": "mod_gun3_1x3.png",
+    "name": "Grapeshot Blaster",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 3,
+    "width": 64,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_gun3_1x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 92,
+    "file": "mod_gun4.png",
+    "name": "Siege Mortar",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 3,
+    "width": 64,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_gun4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 93,
+    "file": "mod_gun5.png",
+    "name": "Carronade",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 3,
+    "width": 64,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_gun5.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 94,
+    "file": "mod_gun7_1x3.png",
+    "name": "Carronade M2",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 3,
+    "width": 64,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_gun7_1x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 95,
+    "file": "mod_laser3_1x3.png",
+    "name": "Long Gun",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 3,
+    "width": 64,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_laser3_1x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 96,
+    "file": "mod_shotgun2.png",
+    "name": "Swivel Battery",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 3,
+    "width": 64,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_shotgun2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 97,
+    "file": "mod_torpedo4_1x3.png",
+    "name": "Spar Torpedo, Spar Torpedo M2, Small Chain Net",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 3,
+    "width": 64,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_torpedo4_1x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9854,
+      1.0,
+      0.9854
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 98,
+    "file": "mod_flamethrower1.png",
+    "name": "Fire-pot Thrower, Fire-pot Thrower M2",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_flamethrower1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 99,
+    "file": "mod_gun1_2x2.png",
+    "name": "Swivel Gun",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_gun1_2x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 100,
+    "file": "mod_gun7_1x4.png",
+    "name": "Grapeshot Blaster M2, Siege Mortar M2, Long Culverin",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 4,
+    "width": 64,
+    "height": 256,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_gun7_1x4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9888,
+      1.0,
+      1.0,
+      0.9851
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 101,
+    "file": "mod_laser2_2x2.png",
+    "name": "Harpoon Gun",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_laser2_2x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9175,
+      0.9165,
+      0.9592,
+      0.9595
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 102,
+    "file": "mod_laser3_1x4.png",
+    "name": "Small Long Harpoon",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 4,
+    "width": 64,
+    "height": 256,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_laser3_1x4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 103,
+    "file": "mod_missile2.png",
+    "name": "Rocket Rack M2",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_missile2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9993,
+      0.9995,
+      0.9998,
+      0.9998
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 104,
+    "file": "mod_shock2.png",
+    "name": "Thunder Gun",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u00b7"
+    ],
+    "cells": 4,
+    "width": 192,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_shock2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9788,
+      0.9878,
+      0.9788,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 105,
+    "file": "mod_torpedo2.png",
+    "name": "Heavy Spar Torpedo, Chain Net",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 4,
+    "width": 64,
+    "height": 256,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_torpedo2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9194,
+      0.929,
+      0.946,
+      0.9846
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 106,
+    "file": "mod_torpedo3_2x2.png",
+    "name": "Tar Slick, Smoke Torpedo",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 4,
+    "width": 128,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_torpedo3_2x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 107,
+    "file": "mod_gun7_1x5.png",
+    "name": "Heavy Carronade",
+    "footprint": [
+      "\u25a0",
+      "\u25a0",
+      "\u25a0",
+      "\u25a0",
+      "\u25a0"
+    ],
+    "cells": 5,
+    "width": 64,
+    "height": 320,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_gun7_1x5.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 108,
+    "file": "mod_gun6_2x3.png",
+    "name": "Heavy Grapeshot Blaster, Acid Cannon",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 6,
+    "width": 128,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_gun6_2x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9705,
+      0.9697,
+      1.0,
+      1.0,
+      0.9875,
+      0.9873
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 109,
+    "file": "mod_ion_cannon2.png",
+    "name": "Chain-shot Cannon",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 6,
+    "width": 128,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_ion_cannon2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 110,
+    "file": "mod_missile3_3x2.png",
+    "name": "Heavy Rocket Rack, Heavy Acid Rocket",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 6,
+    "width": 192,
+    "height": 128,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_missile3_3x2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 111,
+    "file": "mod_rocket1_2x3.png",
+    "name": "Heavy Rocket Rack M2, Cluster Rocket Rack, Heavy Rocket Rack M3",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 6,
+    "width": 128,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_rocket1_2x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 112,
+    "file": "mod_shotgun1.png",
+    "name": "Fire Scatter-gun",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 6,
+    "width": 128,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_shotgun1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9126,
+      0.9121,
+      1.0,
+      1.0,
+      0.9998,
+      0.9998
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 113,
+    "file": "mod_torpedo3_2x3.png",
+    "name": "Fragmentation Bomb, Heavy Infernal Torpedo, Heavy Fire Torpedo M1",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 6,
+    "width": 128,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_torpedo3_2x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9998,
+      0.9998,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 114,
+    "file": "mod_firework_2x4.png",
+    "name": "Mine-thrower",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 8,
+    "width": 128,
+    "height": 256,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_firework_2x4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9993,
+      0.9998,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9998,
+      0.9998
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 115,
+    "file": "mod_gun7_2x4.png",
+    "name": "Heavy Long Culverin",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 8,
+    "width": 128,
+    "height": 256,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_gun7_2x4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 116,
+    "file": "mod_ion_cannon1.png",
+    "name": "Heavy Chain-shot Cannon",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 8,
+    "width": 128,
+    "height": 256,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_ion_cannon1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 117,
+    "file": "mod_laser1_2x4.png",
+    "name": "Long Harpoon",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 8,
+    "width": 128,
+    "height": 256,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_laser1_2x4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.4958,
+      0.4958,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9995,
+      0.9995
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 118,
+    "file": "mod_rocket1_2x4.png",
+    "name": "Stalker Rocket Rack",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 8,
+    "width": 128,
+    "height": 256,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_rocket1_2x4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9988,
+      0.9995,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 119,
+    "file": "mod_shock1_2x4.png",
+    "name": "Heavy Thunder Gun",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 8,
+    "width": 128,
+    "height": 256,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_shock1_2x4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 120,
+    "file": "mod_torpedo1_2x4.png",
+    "name": "Heavy Greek-fire Torpedo",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 8,
+    "width": 128,
+    "height": 256,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_torpedo1_2x4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9431,
+      0.9431,
+      0.989,
+      0.989,
+      0.9895,
+      0.989,
+      0.9746,
+      0.9771
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 121,
+    "file": "mod_torpedo4_2x4.png",
+    "name": "Cluster Torpedo",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 8,
+    "width": 128,
+    "height": 256,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_torpedo4_2x4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.967,
+      0.9661,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 122,
+    "file": "mod_doom1_3x3.png",
+    "name": "Heavy Greek-fire Bomb, Heavy Greek-fire Bomb M2",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_doom1_3x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9678,
+      0.9456,
+      0.9692,
+      0.9827,
+      1.0,
+      0.9883,
+      0.9966,
+      1.0,
+      0.9966
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 123,
+    "file": "mod_holy_gun.png",
+    "name": "Holy Cannon",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_holy_gun.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9998,
+      1.0,
+      0.9998,
+      1.0,
+      1.0,
+      1.0,
+      0.9998,
+      1.0,
+      0.9998
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 124,
+    "file": "mod_laser4.png",
+    "name": "Heavy Harpoon Gun M2, Heavy Smoke Torpedo",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_laser4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9973,
+      0.9944,
+      0.9973,
+      1.0,
+      1.0,
+      1.0,
+      0.9998,
+      1.0,
+      0.9998
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 125,
+    "file": "mod_shock1_3x3.png",
+    "name": "Oblivion Cannon",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 9,
+    "width": 192,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_shock1_3x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9766,
+      0.9875,
+      0.9768,
+      0.9868,
+      1.0,
+      0.9866,
+      0.9805,
+      0.9873,
+      0.9817
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 126,
+    "file": "mod_torpedo1_2x5.png",
+    "name": "Heavy Acid Torpedo",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 10,
+    "width": 128,
+    "height": 320,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_torpedo1_2x5.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9666,
+      0.9729,
+      0.9878,
+      1.0,
+      0.9846,
+      1.0,
+      0.9895,
+      1.0,
+      0.9907,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 127,
+    "file": "mod_firework_3x5.png",
+    "name": "Doom Harpoon",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 15,
+    "width": 192,
+    "height": 320,
+    "category": "Guns",
+    "priority": "P2",
+    "path": "assets/Nautical/Modules/mod_firework_3x5.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 128,
+    "file": "mod_dronebay1_3x4.png",
+    "name": "DroneBay L 1",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 12,
+    "width": 192,
+    "height": 256,
+    "category": "Boats",
+    "priority": "P3",
+    "path": "assets/Nautical/Modules/mod_dronebay1_3x4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9919,
+      0.9854,
+      0.9917,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 129,
+    "file": "mod_dronebay1_4x5.png",
+    "name": "DroneBay L 0",
+    "footprint": [
+      "\u25a0\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0\u25a0"
+    ],
+    "cells": 20,
+    "width": 256,
+    "height": 320,
+    "category": "Boats",
+    "priority": "P3",
+    "path": "assets/Nautical/Modules/mod_dronebay1_4x5.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 130,
+    "file": "mod_teleporter1.png",
+    "name": "Storm Sails\\_Boss",
+    "footprint": [
+      "\u00b7\u25a0\u00b7",
+      "\u25a0\u25a0\u25a0",
+      "\u00b7\u25a0\u00b7"
+    ],
+    "cells": 5,
+    "width": 192,
+    "height": 192,
+    "category": "Special",
+    "priority": "P3",
+    "path": "assets/Nautical/Modules/mod_teleporter1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9827,
+      0.9009,
+      1.0,
+      0.9019,
+      0.9812
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 131,
+    "file": "mod_inertial2.png",
+    "name": "Inertial Nullifier",
+    "footprint": [
+      "\u00b7\u25a0\u00b7",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 7,
+    "width": 192,
+    "height": 192,
+    "category": "Special",
+    "priority": "P3",
+    "path": "assets/Nautical/Modules/mod_inertial2.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      0.9392,
+      1.0,
+      0.9392,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 132,
+    "file": "mod_gun3_1x1.png",
+    "name": "TutorialGun",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Guns",
+    "priority": "P3",
+    "path": "assets/Nautical/Modules/mod_gun3_1x1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9143
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 133,
+    "file": "mod_missile3_1x1.png",
+    "name": "TutorialMissile",
+    "footprint": [
+      "\u25a0"
+    ],
+    "cells": 1,
+    "width": 64,
+    "height": 64,
+    "category": "Guns",
+    "priority": "P3",
+    "path": "assets/Nautical/Modules/mod_missile3_1x1.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 134,
+    "file": "mod_shock1_2x3.png",
+    "name": "Thunder Gun",
+    "footprint": [
+      "\u25a0\u25a0",
+      "\u25a0\u25a0",
+      "\u25a0\u25a0"
+    ],
+    "cells": 6,
+    "width": 128,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P3",
+    "path": "assets/Nautical/Modules/mod_shock1_2x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 135,
+    "file": "mod_torpedo3_3x3.png",
+    "name": "StasisField L 2",
+    "footprint": [
+      "\u25a0\u00b7\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 8,
+    "width": 192,
+    "height": 192,
+    "category": "Guns",
+    "priority": "P3",
+    "path": "assets/Nautical/Modules/mod_torpedo3_3x3.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      0.9824,
+      0.981,
+      1.0,
+      0.9856,
+      1.0,
+      0.9885,
+      0.9854,
+      0.9888
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  },
+  {
+    "number": 136,
+    "file": "mod_gun6_3x4.png",
+    "name": "Large Rusty Cannon",
+    "footprint": [
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0",
+      "\u25a0\u25a0\u25a0"
+    ],
+    "cells": 12,
+    "width": 192,
+    "height": 256,
+    "category": "Guns",
+    "priority": "P3",
+    "path": "assets/Nautical/Modules/mod_gun6_3x4.png",
+    "cell_size": 64,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "occupied_cell_coverage": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "empty_cell_nontransparent_pixels": 0,
+    "generation": "individual_builtin_imagegen",
+    "review_status": "engine_review_required"
+  }
+]

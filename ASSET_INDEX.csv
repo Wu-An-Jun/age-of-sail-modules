@@ -1,0 +1,137 @@
+number,file,name,category,priority,width,height,footprint,cells,status
+1,mod_armor11.png,Light Ironwood Planking,Defence,P1,64,64,■,1,delivered
+2,mod_armor21.png,Light Ram Planking,Defence,P1,64,64,■,1,delivered
+3,mod_armor31.png,Small Powder Store,Defence,P1,64,64,■,1,delivered
+4,mod_armor41.png,Light Copper Sheathing,Defence,P1,64,64,■,1,delivered
+5,mod_armor51.png,Light Cork Planking,Defence,P1,64,64,■,1,delivered
+6,mod_armor61.png,Light Living-oak Planking,Defence,P1,64,64,■,1,delivered
+7,mod_shield_capacitor1.png,Small Bulwark Planking,Defence,P1,64,64,■,1,delivered
+8,mod_shield_generator1.png,Small Bulwark Timbers,Defence,P1,64,64,■,1,delivered
+9,mod_armor12.png,Ironwood Planking,Defence,P1,128,128,■■/■■,4,delivered
+10,mod_armor22.png,Ram Planking,Defence,P1,128,128,■■/■■,4,delivered
+11,mod_armor32.png,Powder Store,Defence,P1,128,128,■■/■■,4,delivered
+12,mod_armor42.png,Copper Sheathing,Defence,P1,128,128,■■/■■,4,delivered
+13,mod_armor52.png,Cork Planking,Defence,P1,128,128,■■/■■,4,delivered
+14,mod_armor62.png,Living-oak Planking,Defence,P1,128,128,■■/■■,4,delivered
+15,mod_doom1_2x2.png,"Thunder Bell, Thunder Bell M2, Fog Lanterns",Defence,P1,128,128,■■/■■,4,delivered
+16,mod_pointdefense.png,"Swivel Guns, Reinforced Hull",Defence,P1,192,128,·■·/■■■,4,delivered
+17,mod_shield1_3x2.png,Bow Bulwark,Defence,P1,192,128,■■■/·■·,4,delivered
+18,mod_shield_capacitor2.png,Medium Bulwark Planking,Defence,P1,128,128,■■/■■,4,delivered
+19,mod_shield_generator2.png,Medium Bulwark Timbers,Defence,P1,128,128,■■/■■,4,delivered
+20,mod_armor13.png,Heavy Ironwood Planking,Defence,P1,192,192,■■■/■■■/■■■,9,delivered
+21,mod_armor23.png,Heavy Ram Planking,Defence,P1,192,192,■■■/■■■/■■■,9,delivered
+22,mod_armor33.png,Heavy Powder Store,Defence,P1,192,192,■■■/■■■/■■■,9,delivered
+23,mod_armor43.png,Heavy Copper Sheathing,Defence,P1,192,192,■■■/■■■/■■■,9,delivered
+24,mod_armor53.png,Heavy Cork Planking,Defence,P1,192,192,■■■/■■■/■■■,9,delivered
+25,mod_armor63.png,Heavy Living-oak Planking,Defence,P1,192,192,■■■/■■■/■■■,9,delivered
+26,mod_shield_capacitor3.png,Large Bulwark Planking,Defence,P1,192,192,■■■/■■■/■■■,9,delivered
+27,mod_shield_generator3.png,Large Bulwark Timbers,Defence,P1,192,192,■■■/■■■/■■■,9,delivered
+28,mod_fueltank11.png,Small Powder Kegs,Powder,P1,64,64,■,1,delivered
+29,mod_fueltank21.png,Small Iron-bound Powder Kegs,Powder,P1,64,64,■,1,delivered
+30,mod_reactor1.png,Small Powder Magazine,Powder,P1,64,64,■,1,delivered
+31,mod_fueltank12.png,Powder Kegs,Powder,P1,128,128,■■/■■,4,delivered
+32,mod_fueltank22.png,Iron-bound Powder Kegs,Powder,P1,128,128,■■/■■,4,delivered
+33,mod_reactor2_2x2.png,Powder Magazine,Powder,P1,128,128,■■/■■,4,delivered
+34,mod_reactor21.png,Great Powder Magazine,Powder,P1,192,192,·■·/■■■/·■·,5,delivered
+35,mod_fueltank13.png,Large Powder Kegs,Powder,P1,192,192,■■■/■■■/■■■,9,delivered
+36,mod_fueltank23.png,Heavy Iron-bound Powder Kegs,Powder,P1,192,192,■■■/■■■/■■■,9,delivered
+37,mod_reactor22.png,Grand Powder Magazine,Powder,P1,320,320,·■·■·/■■■■■/·■■■·/■■■■■/·■·■·,17,delivered
+38,mod_engine0.png,Small Square Rig,Sails,P1,64,64,■,1,delivered
+39,mod_engine1.png,"Small Schooner Rig, TutorialDrive",Sails,P1,64,64,■,1,delivered
+40,mod_engine2.png,Square Rig,Sails,P1,64,128,■/■,2,delivered
+41,mod_engine3.png,"Schooner Rig, Sea Anchor",Sails,P1,128,64,■■,2,delivered
+42,mod_engine4.png,Large Square Rig,Sails,P1,128,128,■■/■■,4,delivered
+43,mod_engine5_2x2.png,Large Schooner Rig,Sails,P1,128,128,■■/■■,4,delivered
+44,mod_engine5_3x3.png,Grand Rig,Sails,P1,192,192,■■■/■■■/■■■,9,delivered
+45,mod_drone_power1.png,"Small Boat Captain, Small Boat Gunners, Small Boat Bulwarks +1",Boats,P1,128,128,■■/■■,4,delivered
+46,mod_drone_replicator1.png,Small Boat Workshop,Boats,P1,128,128,■■/■■,4,delivered
+47,mod_dronebay1_2x3.png,"Small Longboat Davit M11, Small Longboat Davit M21, Small Longboat Davit M31 +8",Boats,P1,128,192,■■/■■/■■,6,delivered
+48,mod_drone_power2.png,"Boat Captain, Boat Gunners, Boat Bulwarks +1",Boats,P1,192,192,■■·/■■■/■■■,8,delivered
+49,mod_drone_replicator2.png,Boat Workshop,Boats,P1,192,192,■■■/■■■/·■■,8,delivered
+50,mod_dronebay2.png,"Longboat Davit M11, Longboat Davit M21, Longboat Davit M31 +8",Boats,P1,192,256,■■■/■■■/■■■/■■·,11,delivered
+51,mod_drone_power3.png,"Large Boat Captain, Large Boat Gunners, Large Boat Bulwarks +1",Boats,P1,256,256,·■■·/■■■■/■■■■/·■■·,12,delivered
+52,mod_drone_replicator3.png,Large Boat Workshop,Boats,P1,256,256,·■■·/■■■■/■■■■/·■■·,12,delivered
+53,mod_dronebay3.png,"Large Longboat Davit M11, Large Longboat Davit M21, Large Longboat Davit M31 +8",Boats,P1,320,192,■■■■■/■■■■■/■■■■■,15,delivered
+54,mod_TargetingUnit.png,Gunnery Sight,Special,P1,64,64,■,1,delivered
+55,mod_focus1.png,"Loading Crew, Powder Focus",Special,P1,64,64,■,1,delivered
+56,mod_intertial_damper1.png,Ballast,Special,P1,64,64,■,1,delivered
+57,mod_lightweight1.png,Oak Ribs,Special,P1,64,64,■,1,delivered
+58,mod_repairbot1.png,Small Ship's Carpenter,Special,P1,64,64,■,1,delivered
+59,mod_jammer.png,"SuperStealth, Decoy Flags, Steering Gear",Special,P1,128,64,■■,2,delivered
+60,mod_detonator1_2x2.png,Fire-ship Charge,Special,P1,128,128,■■/■■,4,delivered
+61,mod_focus2.png,"Loading Crew M2, Powder Focus M2",Special,P1,128,128,■■/■■,4,delivered
+62,mod_intertial_damper2.png,Bilge Keel,Special,P1,128,128,■■/■■,4,delivered
+63,mod_repairbot2.png,Ship's Carpenter,Special,P1,128,128,■■/■■,4,delivered
+64,mod_range1.png,Rangefinder,Special,P1,128,192,·■/■■/■■,5,delivered
+65,mod_teleporter.png,Storm Sails,Special,P1,192,192,·■·/■■■/·■·,5,delivered
+66,mod_zygote1.png,Small Crew Quarters,Special,P1,128,192,■■/■■/■■,6,delivered
+67,mod_core.png,Infinity Stone,Special,P1,192,192,■■■/·■■/·■■,7,delivered
+68,mod_shield2.png,"Smoke Screen, Bulwark",Special,P1,192,192,■·■/■■■/■·■,7,delivered
+69,mod_reactor2_3x3.png,"GravityGenerator, Large Powder Magazine",Special,P1,192,192,■■■/■■■/■■■,9,delivered
+70,mod_zygote2.png,Crew Quarters,Special,P1,192,192,■■■/■■■/■■■,9,delivered
+71,mod_zygote3.png,Large Crew Quarters,Special,P1,256,256,·■■·/■■■■/■■■■/·■■·,12,delivered
+72,mod_shield1_1x1.png,Small Thunder Gun M3,Guns,P1,64,64,■,1,delivered
+73,mod_afterburner1.png,Rocket Launcher M2,Guns,P1,64,192,■/■/■,3,delivered
+74,mod_accelerator1.png,Maelstrom Cannon,Guns,P1,128,128,■■/■■,4,delivered
+75,mod_reactor3.png,Heavy Leech Harpoon,Guns,P1,192,192,·■·/■■■/·■·,5,delivered
+76,mod_detonator1_3x3.png,Whirlpool Charm,Guns,P1,192,192,■■■/■■■/■■■,9,delivered
+77,mod_gun1_1x1.png,"Small Fire Cannon, Small Carronade",Guns,P2,64,64,■,1,delivered
+78,mod_laser2_1x1.png,Small Harpoon Gun,Guns,P2,64,64,■,1,delivered
+79,mod_missile0.png,Small Rocket Rack,Guns,P2,64,64,■,1,delivered
+80,mod_shock1_1x1.png,Small Thunder Gun,Guns,P2,64,64,■,1,delivered
+81,mod_energybeam1.png,"Small Plunder Hook, Plunder Hook, Grappling Line",Guns,P2,64,128,■/■,2,delivered
+82,mod_gun2.png,Small Carronade M2,Guns,P2,64,128,■/■,2,delivered
+83,mod_laser1_1x2.png,"Small Carpenter's Line, Small Harpoon Gun M2",Guns,P2,64,128,■/■,2,delivered
+84,mod_missile1.png,Rocket Rack,Guns,P2,128,64,■■,2,delivered
+85,mod_rocket1_1x2.png,"Rocket Launcher, Rocket Rack M3",Guns,P2,64,128,■/■,2,delivered
+86,mod_shock1_1x2.png,Small Thunder Gun M2,Guns,P2,64,128,■/■,2,delivered
+87,mod_torpedo1_1x2.png,"Small Tar Slick, Boarding Hooks",Guns,P2,64,128,■/■,2,delivered
+88,mod_torpedo4_1x2.png,Small Spar Torpedo,Guns,P2,64,128,■/■,2,delivered
+89,mod_energybeam2.png,"Fire Harpoon, Leech Harpoon",Guns,P2,64,192,■/■/■,3,delivered
+90,mod_firework_1x3.png,Firework Cannon,Guns,P2,64,192,■/■/■,3,delivered
+91,mod_gun3_1x3.png,Grapeshot Blaster,Guns,P2,64,192,■/■/■,3,delivered
+92,mod_gun4.png,Siege Mortar,Guns,P2,64,192,■/■/■,3,delivered
+93,mod_gun5.png,Carronade,Guns,P2,64,192,■/■/■,3,delivered
+94,mod_gun7_1x3.png,Carronade M2,Guns,P2,64,192,■/■/■,3,delivered
+95,mod_laser3_1x3.png,Long Gun,Guns,P2,64,192,■/■/■,3,delivered
+96,mod_shotgun2.png,Swivel Battery,Guns,P2,64,192,■/■/■,3,delivered
+97,mod_torpedo4_1x3.png,"Spar Torpedo, Spar Torpedo M2, Small Chain Net",Guns,P2,64,192,■/■/■,3,delivered
+98,mod_flamethrower1.png,"Fire-pot Thrower, Fire-pot Thrower M2",Guns,P2,128,128,■■/■■,4,delivered
+99,mod_gun1_2x2.png,Swivel Gun,Guns,P2,128,128,■■/■■,4,delivered
+100,mod_gun7_1x4.png,"Grapeshot Blaster M2, Siege Mortar M2, Long Culverin",Guns,P2,64,256,■/■/■/■,4,delivered
+101,mod_laser2_2x2.png,Harpoon Gun,Guns,P2,128,128,■■/■■,4,delivered
+102,mod_laser3_1x4.png,Small Long Harpoon,Guns,P2,64,256,■/■/■/■,4,delivered
+103,mod_missile2.png,Rocket Rack M2,Guns,P2,128,128,■■/■■,4,delivered
+104,mod_shock2.png,Thunder Gun,Guns,P2,192,128,■■■/·■·,4,delivered
+105,mod_torpedo2.png,"Heavy Spar Torpedo, Chain Net",Guns,P2,64,256,■/■/■/■,4,delivered
+106,mod_torpedo3_2x2.png,"Tar Slick, Smoke Torpedo",Guns,P2,128,128,■■/■■,4,delivered
+107,mod_gun7_1x5.png,Heavy Carronade,Guns,P2,64,320,■/■/■/■/■,5,delivered
+108,mod_gun6_2x3.png,"Heavy Grapeshot Blaster, Acid Cannon",Guns,P2,128,192,■■/■■/■■,6,delivered
+109,mod_ion_cannon2.png,Chain-shot Cannon,Guns,P2,128,192,■■/■■/■■,6,delivered
+110,mod_missile3_3x2.png,"Heavy Rocket Rack, Heavy Acid Rocket",Guns,P2,192,128,■■■/■■■,6,delivered
+111,mod_rocket1_2x3.png,"Heavy Rocket Rack M2, Cluster Rocket Rack, Heavy Rocket Rack M3",Guns,P2,128,192,■■/■■/■■,6,delivered
+112,mod_shotgun1.png,Fire Scatter-gun,Guns,P2,128,192,■■/■■/■■,6,delivered
+113,mod_torpedo3_2x3.png,"Fragmentation Bomb, Heavy Infernal Torpedo, Heavy Fire Torpedo M1",Guns,P2,128,192,■■/■■/■■,6,delivered
+114,mod_firework_2x4.png,Mine-thrower,Guns,P2,128,256,■■/■■/■■/■■,8,delivered
+115,mod_gun7_2x4.png,Heavy Long Culverin,Guns,P2,128,256,■■/■■/■■/■■,8,delivered
+116,mod_ion_cannon1.png,Heavy Chain-shot Cannon,Guns,P2,128,256,■■/■■/■■/■■,8,delivered
+117,mod_laser1_2x4.png,Long Harpoon,Guns,P2,128,256,■■/■■/■■/■■,8,delivered
+118,mod_rocket1_2x4.png,Stalker Rocket Rack,Guns,P2,128,256,■■/■■/■■/■■,8,delivered
+119,mod_shock1_2x4.png,Heavy Thunder Gun,Guns,P2,128,256,■■/■■/■■/■■,8,delivered
+120,mod_torpedo1_2x4.png,Heavy Greek-fire Torpedo,Guns,P2,128,256,■■/■■/■■/■■,8,delivered
+121,mod_torpedo4_2x4.png,Cluster Torpedo,Guns,P2,128,256,■■/■■/■■/■■,8,delivered
+122,mod_doom1_3x3.png,"Heavy Greek-fire Bomb, Heavy Greek-fire Bomb M2",Guns,P2,192,192,■■■/■■■/■■■,9,delivered
+123,mod_holy_gun.png,Holy Cannon,Guns,P2,192,192,■■■/■■■/■■■,9,delivered
+124,mod_laser4.png,"Heavy Harpoon Gun M2, Heavy Smoke Torpedo",Guns,P2,192,192,■■■/■■■/■■■,9,delivered
+125,mod_shock1_3x3.png,Oblivion Cannon,Guns,P2,192,192,■■■/■■■/■■■,9,delivered
+126,mod_torpedo1_2x5.png,Heavy Acid Torpedo,Guns,P2,128,320,■■/■■/■■/■■/■■,10,delivered
+127,mod_firework_3x5.png,Doom Harpoon,Guns,P2,192,320,■■■/■■■/■■■/■■■/■■■,15,delivered
+128,mod_dronebay1_3x4.png,DroneBay L 1,Boats,P3,192,256,■■■/■■■/■■■/■■■,12,delivered
+129,mod_dronebay1_4x5.png,DroneBay L 0,Boats,P3,256,320,■■■■/■■■■/■■■■/■■■■/■■■■,20,delivered
+130,mod_teleporter1.png,Storm Sails\_Boss,Special,P3,192,192,·■·/■■■/·■·,5,delivered
+131,mod_inertial2.png,Inertial Nullifier,Special,P3,192,192,·■·/■■■/■■■,7,delivered
+132,mod_gun3_1x1.png,TutorialGun,Guns,P3,64,64,■,1,delivered
+133,mod_missile3_1x1.png,TutorialMissile,Guns,P3,64,64,■,1,delivered
+134,mod_shock1_2x3.png,Thunder Gun,Guns,P3,128,192,■■/■■/■■,6,delivered
+135,mod_torpedo3_3x3.png,StasisField L 2,Guns,P3,192,192,■·■/■■■/■■■,8,delivered
+136,mod_gun6_3x4.png,Large Rusty Cannon,Guns,P3,192,256,■■■/■■■/■■■/■■■,12,delivered

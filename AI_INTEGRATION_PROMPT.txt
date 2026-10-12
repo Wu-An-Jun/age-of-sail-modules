@@ -1,0 +1,23 @@
+Integrate this complete Age of Sail module sprite pack into the existing game.
+Read README.txt, manifest.json and ASSET_INDEX.csv before editing code.
+Use only the existing module identities; do not derive gameplay from filenames.
+There are 136 sprites shared by 229 module definitions. Match each existing picture
+identifier AND footprint to its manifest entry. Preserve exact filenames and case.
+Legacy names such as reactor, laser and drone refer to nautical art in this pack.
+Do not introduce spaceships, boarding combat, new statistics or new mechanics.
+Copy PNGs to assets/Nautical/Modules/ and run porting/make_module_art.py in the
+actual repository. Inspect that script before running it; follow repository rules.
+If the script or mapping differs, report the concrete mismatch instead of inventing
+replacement module definitions. Keep the square inventory/list icons unchanged.
+Draw each hull-grid sprite over its full footprint bounding box, using 64 pixels
+per cell, alpha blending, no padded frame and no shrinking into a solid subrectangle.
+Respect empty cells and one continuous object across occupied cells. Bow points up.
+Use nearest-neighbor sampling for pixel-art rendering unless the existing engine
+requires otherwise. Use the engine's module pivot and rotate the art together with
+its footprint; the manifest normalized center is metadata, not a reason to rewrite
+existing pivot logic. Do not rotate the footprint independently of the sprite.
+For guns, replace assembled barrel art with the delivered module sprite once loaded;
+do not draw both. Retain the existing fallback for genuinely missing resources.
+Check visual alignment for T, plus, notched, 1x5 and 5x3 modules at multiple rotations.
+Run python validate_modules.py from this pack and then the repository's normal
+asset validation. Report edits, checks, import results and remaining engine issues.

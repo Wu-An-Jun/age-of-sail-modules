@@ -1,0 +1,15 @@
+{
+  "expected": 136,
+  "delivered": 136,
+  "missing": [],
+  "dimensions_and_rgba": "passed",
+  "empty_cells_fully_transparent": "passed",
+  "all_occupied_cells_have_art": "passed",
+  "minimum_occupied_cell_coverage": 0.3069,
+  "priority_counts": {
+    "P1": 76,
+    "P2": 51,
+    "P3": 9
+  },
+  "engine_import_test": "not_run_game_repository_not_supplied"
+}
